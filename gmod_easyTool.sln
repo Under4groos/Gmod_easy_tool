@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gmod_easyTool", "gmod_easyTool\gmod_easyTool.csproj", "{F4C30127-05CC-491D-8EB2-3B46B939A03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C30127-05CC-491D-8EB2-3B46B939A03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C30127-05CC-491D-8EB2-3B46B939A03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C30127-05CC-491D-8EB2-3B46B939A03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C30127-05CC-491D-8EB2-3B46B939A03F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3CD5A8-6C09-4B22-9D85-7ABF3FE4A2B4}
+	EndGlobalSection
+EndGlobal
